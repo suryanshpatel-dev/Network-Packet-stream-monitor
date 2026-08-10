@@ -1,0 +1,35 @@
+# PowerShell Live Network & Packet Stream Monitor
+
+A terminal-based real-time network traffic analyzer and telemetry tool built for Windows PowerShell. This tool captures live network packets, identifies top traffic generators, and provides real-time security alerts for unencrypted traffic.
+
+---
+
+## Key Features
+
+* **Live Packet Stream:** Captures real-time packet information including timestamp, Source IP, Destination IP, Protocol (UDP/TCP), Service, and Payload Size.
+* **Top Network Generators:** Displays an aggregated leaderboard of IP addresses consuming the most bandwidth and packet volume.
+* **Network Telemetry:** Displays packet velocity (packets per second), total unique host count, and overall packet metrics.
+* **Security & Watchlist Alerts:** Flags insecure or unencrypted communications (e.g., plain HTTP traffic over port 80).
+
+---
+
+## Screenshot
+
+![Network Monitor Interface](95867.jpg)
+
+---
+
+## Requirements
+
+* **OS:** Windows 10 / 11 or Windows Server
+* **Shell:** Windows PowerShell 5.1 or PowerShell Core 7+
+* **Privileges:** Administrator access (required for raw socket sniffing / network adapter capturing)
+
+---
+
+## Quick Start
+
+1. **Clone the Repository**
+   ```bash
+   git clone 
+   cd network-packet-monitor
