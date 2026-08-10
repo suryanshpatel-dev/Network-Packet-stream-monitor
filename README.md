@@ -1,3 +1,4 @@
+<img width="1917" height="1078" alt="Screenshot 2026-08-11 001702" src="https://github.com/user-attachments/assets/1e5f9197-b30c-4087-b28d-a8f374fbe6bd" />
 # Network-Packet-stream-monitor
 PowerShell Live Network & Packet Stream Monitor is a lightweight, terminal-based network analysis tool designed to inspect and visualize local traffic in real time using native Windows PowerShell capabilities.
 Built for system administrators, security enthusiasts, and network engineers, this tool captures live packet activity and organizes it into a clean,
