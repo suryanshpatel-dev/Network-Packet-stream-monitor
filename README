@@ -15,7 +15,6 @@ A terminal-based real-time network traffic analyzer and telemetry tool built for
 
 ## Screenshot
 
-![Network Monitor Interface](95867.jpg)
 
 ---
 
@@ -31,5 +30,5 @@ A terminal-based real-time network traffic analyzer and telemetry tool built for
 
 1. **Clone the Repository**
    ```bash
-   git clone 
+   git clone https://github.com/suryanshpatel-dev/Network-Packet-stream-monitor.git
    cd network-packet-monitor
